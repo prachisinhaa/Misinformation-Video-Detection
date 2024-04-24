@@ -24,3 +24,7 @@ CNN: implemented CNN models with and without regularisation. Also implemented pr
 
 ### Step 8:
 Increasing the dataset size: the models were run on the larger dataset.
+
+
+## Here is the link to the downsampled dataset: 
+https://drive.google.com/drive/folders/1LLrRdI3bqBoqQ5Wul8DM9DGFgPbSsEKv?usp=sharing
