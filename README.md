@@ -20,4 +20,7 @@ Linear Classifier: implemented LogisticRegression model using sklearn.
 Nerual Network: implemented basic and complex NN model using Tensorflow.  
 
 ### Step 7: 
-CNN: implemented CNN models with and without regularisation. Also implemented pretrained VGG16 and resnet models.
+CNN: implemented CNN models with and without regularisation. Also implemented pretrained VGG16 and resnet models (experimented with regularisation and finetuning).
+
+### Step 8:
+Increasing the dataset size: the models were run on the larger dataset.
